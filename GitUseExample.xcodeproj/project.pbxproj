@@ -12,6 +12,7 @@
 		635492E4204DCD8900C65D1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 635492E2204DCD8900C65D1C /* Main.storyboard */; };
 		635492E6204DCD8900C65D1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 635492E5204DCD8900C65D1C /* Assets.xcassets */; };
 		635492E9204DCD8900C65D1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 635492E7204DCD8900C65D1C /* LaunchScreen.storyboard */; };
+		635492F1204DFDC100C65D1C /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 635492F0204DFDC100C65D1C /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		635492E5204DCD8900C65D1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		635492E8204DCD8900C65D1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		635492EA204DCD8900C65D1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		635492F0204DFDC100C65D1C /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				635492DE204DCD8900C65D1C /* AppDelegate.swift */,
 				635492E0204DCD8900C65D1C /* ViewController.swift */,
+				635492F0204DFDC100C65D1C /* MapForItinerary.swift */,
 				635492E2204DCD8900C65D1C /* Main.storyboard */,
 				635492E5204DCD8900C65D1C /* Assets.xcassets */,
 				635492E7204DCD8900C65D1C /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				635492E1204DCD8900C65D1C /* ViewController.swift in Sources */,
 				635492DF204DCD8900C65D1C /* AppDelegate.swift in Sources */,
+				635492F1204DFDC100C65D1C /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
